@@ -1,0 +1,10 @@
+/* SITE */
+
+Site name:  Guru Logic
+Site URL:   http://gurulogic.ca
+Contact:    contact@gurulogic.ca
+Twitter:    @gurulogic
+Location:   Victoria, British Columbia, Canada
+Standards:  HTML 5, CSS 3, ES 5
+Components: Squad theme for Bootstrap http://www.bootstrapzero.com/bootstrap-template/squad
+Source:     https://github.com/samsonjs/gurulogic.ca
