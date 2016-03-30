@@ -1,7 +1,7 @@
 /* SITE */
 
 Site name:  Guru Logic
-Site URL:   http://gurulogic.ca
+Site URL:   https://gurulogic.ca
 Contact:    contact@gurulogic.ca
 Twitter:    @gurulogic
 Location:   Victoria, British Columbia, Canada
